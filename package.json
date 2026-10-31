@@ -19,9 +19,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/raccoon-mh/sandforge.git"
+    "url": "https://github.com/raccoonhub-dev/sandforge.git"
   },
-  "homepage": "https://raccoon-mh.github.io/sandforge/",
+  "homepage": "https://raccoonhub-dev.github.io/sandforge/",
   "keywords": [
     "falling-sand",
     "simulation",
